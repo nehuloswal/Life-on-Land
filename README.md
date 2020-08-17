@@ -1,8 +1,4 @@
-# weather_and_air_pollution
-A study of Weather Pattern and their Relation to Air Pollution. Prediction of Air Quality using Weather Pattern.
-
-A project by Anirban Bhattacharya, Fedrick Duarao and Nehul Oswal.
-
-A correaltion study of Air Pollution features like concentrations of CO, SO2, Ozone and NO2 with weather patterns. 
-
-A predictive model to predcit the Air Quality from the weather features.
+# Life on Land
+This project aimed to make a contributed to the SDG goal 17 of the United Nations.
+Analyzed around 20  GB of data to determine if there are any correlation between weather features and air pollutants. At the end hypothesis testing was used to check if the correlations are statastically significant.
+LSTM based prediction model was used to predict the AQI.
